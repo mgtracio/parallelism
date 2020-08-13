@@ -11,7 +11,7 @@ import (
 )
 
 /**
- * Parallel Batch Processing in Golang (mainImages1)::: INTENSIVE TASKS SUCCESSFULLY COMPLETED -> Elapsed time
+ * Parallel Batch Processing in Golang (mainImages1)
  * @author Marco Guillén <mguillen.developer@gmail.com>
  */
 func main() {
